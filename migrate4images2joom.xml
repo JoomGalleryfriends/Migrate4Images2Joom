@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+  <fieldset name="migration">
+    <field
+      id="path-4images2joom"
+      name="path"
+      type="text"
+      class="inputbox span12"
+      label="FILES_JOOMGALLERY_MIGRATION_4IMAGES2JOOM_PATH_LABEL"
+      description="FILES_JOOMGALLERY_MIGRATION_4IMAGES2JOOM_PATH_DESC"
+      required="true"
+    />
+    <field
+      id="copy_images-4images2joom"
+      name="copy_images"
+      type="radio"
+      class="btn-group"
+      label="FILES_JOOMGALLERY_MIGRATION_4IMAGES2JOOM_COPY_IMAGES_LABEL"
+      description="FILES_JOOMGALLERY_MIGRATION_4IMAGES2JOOM_COPY_IMAGES_DESC"
+      default="0"
+    >
+      <option value="0">JNO</option>
+      <option value="1">JYES</option>
+    </field>
+    <field
+      id="prefix-4images2joom"
+      name="prefix"
+      type="text"
+      class="inputbox span3"
+      label="FILES_JOOMGALLERY_MIGRATION_4IMAGES2JOOM_PREFIX_LABEL"
+      description="FILES_JOOMGALLERY_MIGRATION_4IMAGES2JOOM_PREFIX_DESC"
+      required="true"
+    />
+    <field
+      name="database"
+      type="joomdatabase"
+      prefix="false"
+    />
+  </fieldset>
+</form>
