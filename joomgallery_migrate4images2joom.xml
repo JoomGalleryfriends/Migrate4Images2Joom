@@ -17,7 +17,4 @@
     <language tag="de-DE" client="administrator">de-DE/de-DE.com_joomgallery.migrate4images2joom.ini</language>
     <language tag="en-GB" client="administrator">en-GB/en-GB.com_joomgallery.migrate4images2joom.ini</language>
   </languages>
-  <updateservers>
-    <server type="collection" priority="1" name="JoomGallery Update Service">http://www.joomgalleryfriends.net/components/com_newversion/xml/joomgallery3.xml</server>
-  </updateservers>
 </extension>
