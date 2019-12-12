@@ -1,10 +1,9 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Addons/Migrate4Images2Joom/trunk/migrate4images2joom.php $
-// $Id: migrate4images2joom.php 4272 2013-05-21 14:40:07Z chraneco $
 /******************************************************************************\
 **   JoomGallery 4Images migration script 3.0                                 **
 **   By: JoomGallery::ProjectTeam                                             **
-**   Copyright (C) 2011 - 2013  M. Andreas Boettcher                          **
+**   Copyright (C) 2011 - 2019  M. Andreas Boettcher,                         **
+**                              JoomGallery::ProjectTeam                      **
 **   Released under GNU GPL Public License                                    **
 **   License: http://www.gnu.org/copyleft/gpl.html or have a look             **
 **   at administrator/components/com_joomgallery/LICENSE.TXT                  **
